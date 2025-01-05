@@ -6,4 +6,4 @@
 
 
 ### My contacts:
-[![Telegram](https://shields.microej.com/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=00758f)](https://t.me/Gwoll)  [![VK](https://shields.microej.com/badge/VK-white?style=for-the-badge&logo=VK&logoColor=0077ff)](https://t.me/Gwoll)
+[![Telegram](https://shields.microej.com/badge/Telegram-white?style=for-the-badge&logo=Telegram&logoColor=00758f)](https://t.me/Gwoll)  [![VK](https://shields.microej.com/badge/VK-white?style=for-the-badge&logo=VK&logoColor=0077ff)](https://vk.com/gwo1l)
